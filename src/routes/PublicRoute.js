@@ -4,7 +4,7 @@ const PublicRoute = ({children}) => {
   //saber si está logueado o no
   const user = JSON.parse(localStorage.getItem('user'));
   return ( 
-    user? <Navigate to='/home'/> : children
+    user? <Navigate to='/'/> : children
    );
 }
  

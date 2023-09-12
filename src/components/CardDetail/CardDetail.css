@@ -1,0 +1,6 @@
+.container-product-detail{
+  height: 80vh;
+}
+.card-body{
+  background-color: var(--platinum);
+}

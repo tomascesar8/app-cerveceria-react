@@ -1,0 +1,9 @@
+.register-form{
+  width: 350px;
+}
+
+@media (width <= 400px){
+  .register-form{
+    width: 270px !important;
+  }
+}

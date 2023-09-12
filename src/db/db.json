@@ -1,7 +1,71 @@
 {
-  "users":[
-  {
-    "email": "tomas@gmail.com",
-    "password": "1234"}
+  "users": [
+    {
+      "id": 1,
+      "name": "Tomás César",
+      "email": "tomas@gmail.com",
+      "age": 30,
+      "password": "1234",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "name": "tomas",
+      "password": "tomascesar",
+      "email": "tomcesar@hotmail.com",
+      "age": 22,
+      "repeat-password": "tomascesar",
+      "admin": false
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Lagger 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 2,
+      "name": "IPA 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Scottish 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Porter 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Honey 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Golden 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Red Lagger 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 8,
+      "name": "APA 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    }
   ]
 }
