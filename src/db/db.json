@@ -66,6 +66,24 @@
       "name": "APA 1Lt",
       "price": 920,
       "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 9,
+      "name": "APA 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "id": 10,
+      "name": "APA 1Lt",
+      "price": 920,
+      "image": "https://painel.portalamazonia.com/uploads/RTEmagicC_cerveja_Shutterstock.jpg.jpg"
+    },
+    {
+      "name": "suka",
+      "price": "20000000000",
+      "image": "https://img.freepik.com/vector-premium/imagen-dibujos-animados-hongo-palabra-hongo_587001-200.jpg?w=2000",
+      "id": 22
     }
   ]
 }

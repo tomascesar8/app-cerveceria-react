@@ -7,6 +7,7 @@ import { URL_PRODUCTS } from "../constanst";
 
 const Products = () => {
   const products = useGet(URL_PRODUCTS)
+  console.log(products);
   return (
     <>
       <Header />  
